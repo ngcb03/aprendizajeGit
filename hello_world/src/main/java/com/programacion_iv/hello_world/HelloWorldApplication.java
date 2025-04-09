@@ -3,7 +3,6 @@ package com.programacion_iv.hello_world;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import com.programacion_iv.hello_world.configuracion.Config;
-import com.programacion_iv.hello_world.configuracion.HelloWorldBean;
 
 public class HelloWorldApplication {
 

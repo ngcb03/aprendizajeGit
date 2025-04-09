@@ -1,4 +1,4 @@
-package com.programacion_iv.hello_world.configuracion;
+package com.programacion_iv.hello_world;
 
 import org.springframework.stereotype.Component;
 
