@@ -24,6 +24,14 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <!-- Se agrega dependencia Spring Context -->
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+        </dependency>
+    </dependencies>
     
     <build>
         <plugins>
@@ -34,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Main</mainClass>
+                            <mainClass>HelloWorldApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
