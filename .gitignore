@@ -1,0 +1,10 @@
+.mvn/
+
+# Ignorar la carpeta de configuración de VS Code
+.vscode/
+
+# Ignorar la carpeta de compilación de Maven
+target/
+
+# Ignorar la carpeta de testing de la app
+src/test/
